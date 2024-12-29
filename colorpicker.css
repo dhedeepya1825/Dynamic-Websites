@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.color-picker-bg {
+    height: 100vh;
+    background-size: cover;
+}
+
+#button1 {
+    background-color: #e0e0e0;
+    height: 75px;
+    width: 75px;
+    border-radius: 16px;
+    border-width: 3px;
+}
+
+#button2 {
+    background-color: #6fcf97;
+    height: 75px;
+    width: 75px;
+    border-radius: 16px;
+    border-width: 3px;
+}
+
+#button3 {
+    background-color: #56ccf2;
+    height: 75px;
+    width: 75px;
+    border-radius: 16px;
+    border-width: 3px;
+}
+
+#button4 {
+    background-color: #bb6bd9;
+    height: 75px;
+    width: 75px;
+    border-radius: 16px;
+    border-width: 3px;
+}
+
+.color-picker-bg-para {
+    background-color: #222222;
+    border-radius: 4px;
+    color: #ffffff;
+    padding: 3px;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+}
